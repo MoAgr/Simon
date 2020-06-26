@@ -1,0 +1,43 @@
+body{
+    background-color: #011F3F;
+}
+.green{
+    background: green;
+}
+.red{
+    background: red;
+}
+.blue{
+    background: blue;
+}
+.yellow{
+    background: yellow;
+}
+button{
+    width:200px;
+    height:200px;
+    border-radius: 20%;
+    border: black 8px solid;
+    margin: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Press Start 2P', cursive;
+    padding: 20px;
+    color: #FEF2BF;
+}
+.twobuttons{
+    display: block;
+    text-align: center;
+}
+.anim{
+    background: grey;
+    opacity: 0.5;
+}
+:focus{
+    outline: none;
+}
+.reset{
+    background: red;
+}
